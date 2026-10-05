@@ -1,4 +1,5 @@
 <h1>Intelligent Energy and Carbon Management in 6G: A Hybrid DRL-PPO Framework</h1>
+<h3><b>Manuscript ID: IEEE LATAM Submission ID: 10658 Authors:</b></h3>
 Overview
 This repository contains the source code and simulation environment for an Intelligent Energy and Carbon Management System designed for 6G networks.
 
