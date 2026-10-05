@@ -1,6 +1,9 @@
 <h1>Intelligent Energy and Carbon Management in 6G: A Hybrid DRL-PPO Framework</h1>
 <h3><b>Manuscript ID: IEEE LATAM Submission ID: 10658 Authors:</b></h3>
-Overview
+- Harshita Patil 
+- Dr. Kaushlendra Sharma 
+- Dr. Shishupal Kumar 
+<h4>Overview</h4>
 This repository contains the source code and simulation environment for an Intelligent Energy and Carbon Management System designed for 6G networks.
 
 The project implements a Deep Reinforcement Learning (DRL) agent using Proximal Policy Optimization (PPO) to optimize the trade-off between energy consumption, carbon emissions, and Quality of Service (QoS). By leveraging real-time grid carbon intensity data and stochastic traffic modeling (MMPP), the agent dynamically switches base station modes (Sleep, Eco, Boost) to minimize environmental impact without violating URLLC constraints.
