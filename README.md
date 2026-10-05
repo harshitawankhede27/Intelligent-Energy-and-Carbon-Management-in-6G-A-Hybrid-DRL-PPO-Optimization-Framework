@@ -333,7 +333,7 @@ For questions regarding the source code, datasets, simulation environment, or re
 
 **Harshita Patil**
 
-📧 **[Contact Author](mailto:harshitapatil@example.com)**
+📧 dtea23cse017@iiitn.ac.in
 
 ---
 
