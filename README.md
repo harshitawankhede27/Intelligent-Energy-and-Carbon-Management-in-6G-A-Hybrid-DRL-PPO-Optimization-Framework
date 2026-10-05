@@ -1,4 +1,4 @@
-Intelligent Energy and Carbon Management in 6G: A Hybrid DRL-PPO Framework
+<h1>Intelligent Energy and Carbon Management in 6G: A Hybrid DRL-PPO Framework</h1>
 Overview
 This repository contains the source code and simulation environment for an Intelligent Energy and Carbon Management System designed for 6G networks.
 
